@@ -2,7 +2,7 @@
              ________________________________________________________________________________________________
             /                                                                                                \
            |    _________________________________________________________________________________________     |
-           |   |  MINGW64:/c/users/josh/repos/life                                                       |    |
+           |   |  <img src="https://www.joshstevens.io/assets/gwindows-logo.png" /> MINGW64:/c/users/josh/repos/life                                                       |    |
            |   |                                                                                         |    |
            |   |  Josh@JoshStevens MINGW64 c/users/josh                                                  |    |
            |   |  $ git config --global alias.lg 'log --oneline --color --decorate --graph --branches'   |    |
