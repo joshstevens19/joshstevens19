@@ -3,7 +3,8 @@
             /                                                                                                \
            |    _________________________________________________________________________________________     |
            |   |  Josh@JoshStevens MINGW64 c/users/josh/repos/life/about-me (master)                     |    |
-           |   |  $ git log                                                                              |    |
+                  $ git config --global alias.lg 'log --oneline --color --decorate --graph --branches'   |    |
+           |   |  $ git lg                                                                               |    |
            |   |  * 63a4644 Merge branch 'josh' into master                                              |    |
            |   |  |\                                                                                     |    |
            |   |  | * 46031ca See my full interactive portfolio https://www.joshstevens.io/interactive   |    |
