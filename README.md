@@ -3,10 +3,13 @@
             /                                                                                                \
            |    _________________________________________________________________________________________     |
            |   |  MINGW64:/c/users/josh/repos/life                                                       |    |
+           |   |                                                                                         |    |
            |   |  Josh@JoshStevens MINGW64 c/users/josh                                                  |    |
            |   |  $ git config --global alias.lg 'log --oneline --color --decorate --graph --branches'   |    |
+           |   |                                                                                         |    |
            |   |  Josh@JoshStevens MINGW64 c/users/josh                                                  |    |
            |   |  $ cd ./repos/life/about-me                                                             |    |
+           |   |                                                                                         |    |
            |   |  Josh@JoshStevens MINGW64 c/users/josh/repos/life/about-me (master)                     |    |
            |   |  $ git lg                                                                               |    |
            |   |  * 63a4644 Merge branch 'josh' into master                                              |    |
@@ -33,6 +36,7 @@
            |   |  | * a23e384 My name is Josh Stevens                                                    |    |
            |   |  | /                                                                                    |    |
            |   |  * 0f17ca8 Initial commit                                                               |    |
+           |   |                                                                                         |    |
            |   |  Josh@JoshStevens MINGW64 c/users/josh/repos/life/about-me (master)                     |    |
            |   |  $                                                                                      |    |
            |   |_________________________________________________________________________________________|    |
