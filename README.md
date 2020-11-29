@@ -27,8 +27,8 @@
            |   |  | * a23e384 My name is Josh Stevens                                                    |    |
            |   |  | /                                                                                    |    |
            |   |  * 0f17ca8 Initial commit                                                               |    |
-           |   |  Josh@JoshStevens MINGW64 c/users/josh/repos/life/about-me (master)                      |    |
-           |   |  $                                                                                       |    |
+           |   |  Josh@JoshStevens MINGW64 c/users/josh/repos/life/about-me (master)                     |    |
+           |   |  $                                                                                      |    |
            |   |_________________________________________________________________________________________|    |
            |                                                                                                  |
             \________________________________________________________________________________________________/
