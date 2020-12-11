@@ -17,7 +17,7 @@
            |   |  | * 9450e35 (josh, origin/josh) See you on the flipside                                |    |
            |   |  | * 46031ca See my full interactive portfolio https://www.joshstevens.io/interactive   |    |
            |   |  | * 0555048 Merge branch 'josh/interests' into josh                                    |    |
-           |   |  | | * 2499b7c (josh/interests, orgin/josh/interests) reading                           |    |
+           |   |  | |\ 2499b7c (josh/interests, orgin/josh/interests) reading                           |    |
            |   |  | | * 0bc890d writing open source code                                                 |    |
            |   |  | | * e28546f spending time with my dogs and fiancée                                   |    |
            |   |  | | * 834a461 I love food                                                              |    |
