@@ -53,5 +53,5 @@
                           | [c]   [a][________________________][a]   [c] [<][V][>] [ 0  ][.]|_||        
                           `--------------------------------------------------------------------' 
                           
-[![views](https://www.randos.online/u/joshstevens19)](https://randos.online/u/joshstevens19/next?theme=#C0C0C0)
-                          
+
+                        
