@@ -32,7 +32,7 @@
            |   |  | | * d28a96b TypeScript                                                               |    |
            |   |  | | * d3ff7ce .NET Core                                                                |    |
            |   |  | | /                                                                                  |    |
-           |   |  | * 3384fde I am a lead full stack blockchain wallet software engineer                 |    |
+           |   |  | * 3384fde I am a lead dev at aave                                                    |    |
            |   |  | * a23e384 My name is Josh Stevens                                                    |    |
            |   |  | /                                                                                    |    |
            |   |  * 0f17ca8 Initial commit                                                               |    |
