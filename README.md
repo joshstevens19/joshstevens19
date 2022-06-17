@@ -32,7 +32,7 @@
            |   |  | | * d28a96b TypeScript                                                               |    |
            |   |  | | * d3ff7ce .NET Core                                                                |    |
            |   |  | | /                                                                                  |    |
-           |   |  | * 3384fde I am a lead dev at aave                                                    |    |
+           |   |  | * 3384fde I am a Staff Engineer at aave                                              |    |
            |   |  | * a23e384 My name is Josh Stevens                                                    |    |
            |   |  | /                                                                                    |    |
            |   |  * 0f17ca8 Initial commit                                                               |    |
