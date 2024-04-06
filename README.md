@@ -19,20 +19,20 @@
            |   |  | * 0555048 Merge branch 'josh/interests' into josh                                    |    |
            |   |  | |\ 2499b7c (josh/interests, orgin/josh/interests) reading                            |    |
            |   |  | | * 0bc890d writing open source code                                                 |    |
-           |   |  | | * e28546f spending time with my dogs and fiancée                                   |    |
+           |   |  | | * e28546f spending time with my dogs and wife                                      |    |
            |   |  | | * 834a461 I love food                                                              |    |
            |   |  | | /                                                                                  |    |
            |   |  | * 6402f5a Merge branch 'josh/tech' into josh                                         |    |
            |   |  | |\ 5cc5d8e (josh/tech, orgin/josh/tech) GIT                                          |    |
-           |   |  | | * c2ecf60 Angular                                                                  |    |
+           |   |  | | * c2ecf60 React                                                                    |    |
            |   |  | | * d28a96b AWS                                                                      |    |
            |   |  | | * 6dbd3eb HTML + CSS/SCSS/SASS/LESS                                                |    |
            |   |  | | * 7e900d5 SQL                                                                      |    |
            |   |  | | * 2984c97 Node                                                                     |    |
            |   |  | | * d28a96b TypeScript                                                               |    |
-           |   |  | | * d3ff7ce .NET Core                                                                |    |
+           |   |  | | * d3ff7ce Rust                                                                     |    |
            |   |  | | /                                                                                  |    |
-           |   |  | * 3384fde I am a Staff Engineer at aave                                              |    |
+           |   |  | * 3384fde I am a VP of engineering at aave                                           |    |
            |   |  | * a23e384 My name is Josh Stevens                                                    |    |
            |   |  | /                                                                                    |    |
            |   |  * 0f17ca8 Initial commit                                                               |    |
